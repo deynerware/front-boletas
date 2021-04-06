@@ -5,7 +5,7 @@ var availables=new Vue({
     },
     methods: {
       getAvailables: function () {
-        this.$http.get('../json/availables.json').then(function (respuesta) {
+        this.$http.get('/json/availables.json').then(function (respuesta) {
                this.availables=respuesta.body              
         })
       }
