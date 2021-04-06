@@ -1,0 +1,10 @@
+[
+    { "name":"Jorge Bermudez" , "identification":"1234567890", "email":"jorge@hotmail.com", "address":"Cll 43 # 12 - 23" },
+    { "name":"Juan velez" , "identification":"13234567", "email":"juan@hotmail.com", "address":"Cll 23 # 122 - 43" },
+    { "name":"Natalia Marin" , "identification":"65453234", "email":"natalia@hotmail.com", "address":"Cll 13 # 2 - 33" },
+    { "name":"Andres Rendon" , "identification":"67543234", "email":"andres@hotmail.com", "address":"Cll 40 # 102 - 3" },
+    { "name":"Monica Crespo" , "identification":"432345678", "email":"monica@hotmail.com", "address":"Cll 45 # 20 - 83" },
+    { "name":"Felipe Jaramillo" , "identification":"234212345", "email":"felipe@hotmail.com", "address":"Cll 63 # 42 - 23" },
+    { "name":"Daniel Alvarado" , "identification":"6743234567", "email":"daniel@hotmail.com", "address":"Cll 3 # 2 - 73" }
+ ]
+ 
