@@ -5,7 +5,7 @@ var sold=new Vue({
     },
     methods: {
       getSold: function () {
-        this.$http.get('/availables.json').then(function (respuesta) {
+        this.$http.get('/sold.json').then(function (respuesta) {
                this.sold=respuesta.body              
         })
       }
