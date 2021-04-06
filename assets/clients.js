@@ -5,7 +5,7 @@ var clients=new Vue({
     },
     methods: {
       getClients: function () {
-        this.$http.get('/clients.json').then(function (respuesta) {
+        this.$http.get('../json/clients.json').then(function (respuesta) {
                this.clients=respuesta.body              
         })
       }
